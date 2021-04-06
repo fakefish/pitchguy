@@ -2,4 +2,6 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+![My github stats](https://github-readme-stats.vercel.app/api?username=mortalYoung&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortalYoung&layout=compact)
