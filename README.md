@@ -2,6 +2,6 @@
 
 📈 My GitHub Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=pitchguy&show_icons=true&theme=outrun&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=fakefish&show_icons=true&theme=outrun&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitchguy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakefish&layout=compact)
